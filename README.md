@@ -136,7 +136,3 @@ Runs on CPU (tested on a MacBook Air M2); training takes under a minute.
 ## 🧰 Tech stack
 
 Python · PyTorch · NumPy · Pillow · Jupyter
-
-## 🙏 Credits
-
-Starter kit provided as part of the course **23AI2012 Foundations of GANs**. Debugging, experiments, extensions and analysis by **Viswanathan A R**.
