@@ -1,0 +1,21 @@
+{
+  "model": "LSTM next-token predictor (not GAN)",
+  "data_source": "procedural-teaching-sequences",
+  "temperatures": [
+    0.1,
+    0.5,
+    1.0,
+    1.5,
+    2.0
+  ],
+  "seed": 7,
+  "prefix": [
+    60,
+    62,
+    64,
+    67
+  ],
+  "length": 16,
+  "seconds": 5,
+  "provenance": "Generated symbolic sequence + deterministic wave synthesis"
+}

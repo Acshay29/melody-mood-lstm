@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+torch>=2.2
+Pillow>=10
+nbformat>=5.9
+jupyter>=1.0
+ipykernel>=6.0
